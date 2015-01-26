@@ -7,3 +7,9 @@ A finicky stilish guy, a rude redhead dude, a badass smoker girl and a naked kid
 
 Global Game Jam game site<br/>
 http://globalgamejam.org/2015/games/about-five-seconds-and-more
+
+#KNOWN ISSUES
+<ul>
+<li>The game is only playable with a gamepad. The game is only tested with an Xbox 360 controller. </li>
+<li>The music gets added on top on every scenario. This might not be pleasant to many.</li>
+</ul>
