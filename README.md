@@ -10,6 +10,7 @@ http://globalgamejam.org/2015/games/about-five-seconds-and-more
 
 ##Known issues
 <ul>
-<li>The game is only playable with a gamepad. The game is only tested with an Xbox 360 controller. </li>
+<li>The game is only playable with a gamepad. The game is only tested with an Xbox 360 controller.</li>
+<li>Only Xbox 360 Controller works till yet.</li>
 <li>The music gets added on top on every scenario. This might not be pleasant to many.</li>
 </ul>
